@@ -1,5 +1,7 @@
 ## Hi there 👋
+[![Pixel koi pond](https://koi-pond.aseebshibin4.workers.dev/koi.svg?u=aseebshibin2-star)](https://koi-pond.aseebshibin4.workers.dev/feed?u=aseebshibin2-star)
 
+[![Net a koi](https://img.shields.io/badge/Net%20a%20koi-f5b82e?style=for-the-badge)](https://koi-pond.aseebshibin4.workers.dev/net/aseebshibin2-star) [![Create my pond](https://img.shields.io/badge/Create%20my%20pond-e8452c?style=for-the-badge)](https://koi-pond.aseebshibin4.workers.dev/)
 <!--
 **aseebshibin2-star/aseebshibin2-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
